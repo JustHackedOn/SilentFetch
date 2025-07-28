@@ -63,3 +63,21 @@ This tool takes advantage of:
 ║ CNIC           ║ 35201-1234567-8                                         ║
 ║ Address        ║ Lahore, Punjab                                          ║
 ╚════════════════╩══════════════════════════════════════════════════════════╝
+
+⚙️ Installation
+1. Clone this repo
+
+git clone https://github.com/justhackedon/TrackBreaker.git
+cd TrackBreaker
+
+2. Install dependencies
+
+go get github.com/PuerkitoBio/goquery
+go get github.com/fatih/color
+go get github.com/schollz/progressbar/v3
+
+3. Run the tool
+
+go run main.go -num 03001234567
+
+go run main.go -l numbers.txt
