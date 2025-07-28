@@ -52,7 +52,7 @@ This tool takes advantage of:
 
 ---
 
-## 📸 Sample Output
+## 📸 Sample Output & Usage
 
 ```bash
 🌟 Entry #1 | Just Hacked On 👽
